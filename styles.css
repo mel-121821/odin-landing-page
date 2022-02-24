@@ -7,17 +7,16 @@ body {
 }
 
 .header {
-    color: #f9faf8;
-    background-color: #1f2937;
+    color:  #ebd9c0;
+    background-color: rgb(34, 20, 7);
     font-size: 18px;
     font-weight: 700;
     display: flex;
-    padding: 8px 72px;
+    padding: 8px 100px;
     justify-content: space-between;
 }
 
 .links {
-    color: #e5e7eb;
     font-size: 14px;
     font-weight: 400;
     display: flex;
@@ -33,26 +32,28 @@ ul {
 }
 
 a {
-    color: #e5e7eb;
+    color: #ebd9c0;
     text-decoration: none;
 }
 
 .title-container {
-    color: #f9faf8;
-    background-color: #1f2937;
-    padding: 60px 72px;
+    color: #ebd9c0;
+    background-color: rgb(34, 20, 7);
+    padding: 40px 450px;
     display: flex;
-    gap: 30px;
+    flex: 1 1 auto;
+    gap: 60px;
     align-items: center;
-
+    justify-content: space-evenly;
 }
 
 .title-text p {
-    color: #e5e7eb;
+    color: #d8b278;
 }
 
 .button {
-    background-color: #3882f6;
+    color: rgb(34, 20, 7);
+    background-color: #ebd9c0;
     border: none;
     border-radius: 8px;
     padding: 8px 16px;
@@ -60,5 +61,8 @@ a {
 }
 
 img {
-    max-width: 300px;
+    max-width: 550px;
+    display: flex;
+    flex: 1 1 auto;
+    border: 1px solid #d8b278;
 }
