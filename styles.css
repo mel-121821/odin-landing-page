@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto, sans-serif;
+    font-family: milkshake, sans-serif;
     margin: 0;
     min-height: 100vh;
     display: flex;
@@ -9,7 +9,7 @@ body {
 .header {
     color:  #ebd9c0;
     background-color: rgb(34, 20, 7);
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 700;
     display: flex;
     padding: 8px 100px;
@@ -17,7 +17,7 @@ body {
 }
 
 .links {
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 400;
     display: flex;
     align-items: center;
@@ -39,6 +39,7 @@ a {
 .title-container {
     color: #ebd9c0;
     background-color: rgb(34, 20, 7);
+    font-size: 28px;
     padding: 40px 450px;
     display: flex;
     flex: 1 1 auto;
@@ -47,16 +48,24 @@ a {
     justify-content: space-evenly;
 }
 
+.title-text h1 {
+    margin-top: -14px;
+}
+
 .title-text p {
     color: #d8b278;
+    font-size: 20px;
+    margin-top: -20px;
 }
 
 .button {
     color: rgb(34, 20, 7);
     background-color: #ebd9c0;
+    font-size: 20px;
     border: none;
     border-radius: 8px;
     padding: 8px 16px;
+    margin-top: 14px;
     display: inline-block;
 }
 
