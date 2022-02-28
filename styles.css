@@ -76,6 +76,19 @@ a {
     border: 1px solid #d8b278;
 }
 
+.info-section-title {
+    color: rgb(34, 20, 7);
+    background-color: #ebd9c0;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+}
+
+.info-section-body {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .menu-image img {
     max-width: 200px;
     border: 2px solid rgb(34, 20, 7);
