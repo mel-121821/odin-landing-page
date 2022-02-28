@@ -13,8 +13,11 @@ Love you a Latte,
 Coco's Cafe, 
 
 
-Image credits (if applicable) will go here:
+Image credits below (All images were obtained through Pexels):
 
-coffee-mug: Kevin Menajang
+coffee-mug: Kevin Menajang 
 coffee-mug2: Decha Huayyai
 coffee-mug3: Dominika Roseclay
+tea-mug: Mareefe
+sandwich: pixabay
+cake: elli
