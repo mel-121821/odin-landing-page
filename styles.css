@@ -85,12 +85,34 @@ a {
 }
 
 .info-section-body {
+    color: rgb(34, 20, 7);
+    background-color: #ebd9c0;
     display: flex;
     justify-content: space-evenly;
+    padding: 0 300px;
+    gap: 50px;
 }
 
 .menu-image img {
-    max-width: 200px;
-    border: 2px solid rgb(34, 20, 7);
+    width: 250px;
+    height: 250px;
+    border: 5px solid rgb(34, 20, 7);
+    border-radius: 22px;
+    object-fit: cover;
+}
 
+.card-3 img {
+    object-position: 73% 0;
+}
+
+.card-4 img {
+    object-position: 50% 70%;
+}
+
+.card-content {
+    display: flex;
+    max-width: 250px;
+    font-size: 26px;
+    justify-content: center;
+    padding: 12px 0;
 }
