@@ -114,5 +114,6 @@ a {
     max-width: 260px;
     font-size: 26px;
     justify-content: center;
+    text-align: center;
     padding: 12px 0;
 }
