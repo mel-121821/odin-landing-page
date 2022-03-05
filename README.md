@@ -21,3 +21,7 @@ coffee-mug3: Dominika Roseclay
 tea-mug: Mareefe
 sandwich: pixabay
 cake: elli
+
+Quote ideas:
+
+Love is in the air, and it smells like coffee. - unknown 
