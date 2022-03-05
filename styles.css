@@ -76,17 +76,19 @@ a {
     border: 1px solid #d8b278;
 }
 
-.info-section-title {
+.info-section {
+    padding-bottom: 40px;
     color: rgb(34, 20, 7);
     background-color: #ebd9c0;
+}
+
+.info-section-title {
     font-size: 24px;
     display: flex;
     justify-content: center;
 }
 
 .info-section-body {
-    color: rgb(34, 20, 7);
-    background-color: #ebd9c0;
     display: flex;
     justify-content: space-evenly;
     padding: 0 300px;
@@ -117,3 +119,13 @@ a {
     text-align: center;
     padding: 12px 0;
 }
+
+.inspirational-quote {
+    color: #ebd9c0;
+    background-color: rgb(167, 118, 73);
+    font-size: 24px;
+    font-weight: 700;
+    display: flex;
+    padding: 60px;
+    justify-content: center;
+}    
