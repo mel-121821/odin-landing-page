@@ -36,6 +36,17 @@ a {
     text-decoration: none;
 }
 
+li {
+    transition: 1s ease;
+}
+
+li:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
 .title-container {
     color: #ebd9c0;
     background-color: rgb(34, 20, 7);
