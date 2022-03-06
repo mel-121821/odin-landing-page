@@ -9,7 +9,7 @@ body {
 .header {
     color:  #ebd9c0;
     background-color: rgb(97, 69, 42);
-    font-size: 24px;
+    font-size: 32px;
     font-weight: 700;
     display: flex;
     padding: 8px 100px;
@@ -17,7 +17,7 @@ body {
 }
 
 .links {
-    font-size: 18px;
+    font-size: 26px;
     font-weight: 400;
     display: flex;
     align-items: center;
@@ -39,8 +39,8 @@ a {
 .title-container {
     color: #ebd9c0;
     background-color: rgb(34, 20, 7);
-    font-size: 28px;
-    padding: 40px 450px;
+    font-size: 32px;
+    padding: 50px 410px;
     display: flex;
     flex: 1 1 auto;
     gap: 60px;
@@ -54,19 +54,27 @@ a {
 
 .title-text p {
     color: #d8b278;
-    font-size: 20px;
+    font-size: 26px;
     margin-top: -20px;
 }
 
 .button {
     color: rgb(34, 20, 7);
     background-color: #ebd9c0;
-    font-size: 20px;
+    font-size: 26px;
     border: none;
     border-radius: 8px;
     padding: 8px 16px;
     margin-top: 14px;
     display: inline-block;
+    transition: 1s ease;
+}
+
+.button:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
 }
 
 .image img {
@@ -74,6 +82,7 @@ a {
     display: flex;
     flex: 1 1 auto;
     border: 1px solid #d8b278;
+    border-radius: 22px;
 }
 
 .info-section {
@@ -83,9 +92,10 @@ a {
 }
 
 .info-section-title {
-    font-size: 24px;
+    font-size: 30px;
     display: flex;
     justify-content: center;
+    padding-top: 10px;
 }
 
 .info-section-body {
@@ -101,6 +111,14 @@ a {
     border: 5px solid rgb(34, 20, 7);
     border-radius: 22px;
     object-fit: cover;
+    transition: 1s ease;
+}
+
+.menu-image img:hover{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 1s ease;
 }
 
 .card-3 img {
@@ -114,17 +132,17 @@ a {
 .card-content {
     display: flex;
     max-width: 260px;
-    font-size: 26px;
+    font-size: 30px;
     justify-content: center;
     text-align: center;
     padding: 12px 0;
 }
 
 .inspirational-quote {
-    color: #ebd9c0;
-    background-color: rgb(167, 118, 73);
-    font-size: 24px;
-    font-weight: 700;
+    color: rgb(34, 20, 7);
+    background-color: #d8b278;
+    font-size: 36px;
+    font-weight: 500;
     display: flex;
     padding: 60px;
     justify-content: center;
