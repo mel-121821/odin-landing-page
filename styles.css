@@ -155,7 +155,12 @@ li:hover {
     font-size: 36px;
     font-weight: 500;
     display: flex;
-    padding: 60px;
-    justify-content: center;
-    
+    flex-direction: column;
+    flex: 0 1 auto; 
+    padding: 60px 300px;
+    align-items: center;
 }    
+
+.author {
+    align-self: flex-end;
+}
