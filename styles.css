@@ -156,11 +156,37 @@ li:hover {
     font-weight: 500;
     display: flex;
     flex-direction: column;
-    flex: 0 1 auto; 
     padding: 60px 300px;
     align-items: center;
 }    
 
 .author {
     align-self: flex-end;
+}
+
+.action {
+    background-color: rgb(97, 69, 42);
+    display: flex;
+    justify-content: center;
+
+}
+
+.action-content {
+    margin: 150px;
+    padding: 50px;
+    color: #ebd9c0;
+    background-color: rgb(34, 20, 7);
+    font-size: 26px;
+    max-width: 1400px;
+}
+
+.action-text {
+    display: flex;
+    gap: 40px;
+    align-items: baseline;
+}
+
+.action-text .button {
+    margin-top: 20px;
+
 }
