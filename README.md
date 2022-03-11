@@ -32,5 +32,5 @@ All you need is love, and more coffee
 
 You can't buy happiness but you can buy coffee, and that's pretty close
 
-Be kind. Be friendly. Be likable. But don't worry if someone doesn't like you. You won't be everyone's cup of tea, and that's okay. You can be someon't cup of coffee instead. And coffee is AWESOME!
+Be kind. Be friendly. Be likable. But don't worry if someone doesn't like you. You won't be everyone's cup of tea, and that's okay. You can be someone's cup of coffee instead. And coffee is AWESOME!
 - L.R Knost
