@@ -1,5 +1,5 @@
 body {
-    font-family: milkshake, sans-serif;
+    font-family: chewy, sans-serif;
     margin: 0;
     min-height: 100vh;
     display: flex;
@@ -10,7 +10,7 @@ body {
     color:  #ebd9c0;
     background-color: rgb(97, 69, 42);
     font-size: 32px;
-    font-weight: 700;
+    font-weight: 500;
     display: flex;
     padding: 8px 100px;
     justify-content: space-between;
@@ -51,6 +51,7 @@ li:hover {
     color: #ebd9c0;
     background-color: rgb(34, 20, 7);
     font-size: 32px;
+    font-weight: 500;
     padding: 50px 410px;
     display: flex;
     flex: 1 1 auto;
@@ -61,6 +62,13 @@ li:hover {
 
 .title-text h1 {
     margin-top: -14px;
+    font-weight: 500;
+}
+
+.title-text h4 {
+    color: #d8b278;
+    font-weight: 500;
+    margin-top: -18px;
 }
 
 .title-text p {
@@ -152,11 +160,11 @@ li:hover {
 .inspirational-quote {
     color: rgb(34, 20, 7);
     background-color: #d8b278;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 500;
     display: flex;
     flex-direction: column;
-    padding: 60px 300px;
+    padding: 110px 300px 80px 300px;
     align-items: center;
 }    
 
