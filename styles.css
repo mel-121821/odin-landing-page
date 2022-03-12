@@ -205,6 +205,18 @@ li:hover {
 
 .action-text .button {
     margin-top: 20px;
-    
+}
 
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(34, 20, 7);
+    color: #d8b278;
+    padding: 20px;
+}
+
+.footer a {
+    color: #d8b278;
+    text-decoration: underline;
 }
