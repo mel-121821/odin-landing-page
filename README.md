@@ -10,17 +10,23 @@ Calico cafe,
 Choco Chai Cafe, 
 Little Rabbit's Cafe, 
 Love you a Latte, 
-Coco's Cafe, 
+Coco's Cafe 
 
 
 Image credits below (All images were obtained through Pexels):
 
-coffee-mug: Kevin Menajang 
-coffee-mug2: Decha Huayyai
-coffee-mug3: Dominika Roseclay
-tea-mug: Mareefe
-sandwich: pixabay
+coffee-mug: Kevin Menajang,
+
+coffee-mug2: Decha Huayyai,
+
+coffee-mug3: Dominika Roseclay,
+
+tea-mug: Mareefe,
+
+sandwich: pixabay,
+
 cake: elli
+
 
 Quote ideas:
 
